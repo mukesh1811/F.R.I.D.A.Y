@@ -1,2 +1,2 @@
-# f.r.i.d.a.y
+# F.R.I.D.A.Y
 Future of Analytics
